@@ -1,5 +1,9 @@
 # Python logging
-## 简单使用
++ Warm up
++ Important concepts
++ Template for complex system
++ Ref
+## Warm up
 By three learning case, familiar with Python logging
 
 ### Case1
