@@ -1,13 +1,13 @@
 # Ubuntu 16.04 LTS
 
--[x] update
+- [x] update
 sudo apt-get update
 
--[x] Install Chrome
+- [x] Install Chrome
 download from offical website *.deb to Downloads
 sudo dpkg -i *chrome*.deb
 
-# Install git
+- [x] Install git
 sudo apt-get install git
 
 # Install Terminator
