@@ -5,11 +5,11 @@ sudo apt-get update
 
 - [x] Install Chrome
 download from offical website *.deb to Downloads
-```sudo dpkg -i *chrome*.deb```
+    - ```sudo dpkg -i *chrome*.deb```
 
 
 - [x] Install git
-```sudo apt-get install git```
+    - ```sudo apt-get install git```
 
 # Install Terminator
 ```sudo apt-get install terminator```
