@@ -1,30 +1,25 @@
 # Ubuntu 16.04 LTS
 
-- [x] update
+# update
 sudo apt-get update
 
-- [x] Install Chrome
-download from offical website *.deb to Downloads
-    - ```sudo dpkg -i *chrome*.deb```
+# Install git
 
-
-- [x] Install git
-    - ```sudo apt-get install git```
+sudo apt-get install git
 
 # Install Terminator
-```sudo apt-get install terminator```
+sudo apt-get install terminator
 
 
 # Install NodeJs: (root)
+
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
+
 sudo apt-get install -y nodejs
 
 # Install Nodemon
+
 sudo npm install -g nodemon
-
-
-# Install angular/cli
-sudo npm install -g @angular/cli
 
 # Install Redis
 
@@ -46,7 +41,7 @@ sudo ./install_server.sh
 python --version
 Python 2.7.12
 
-# Install pip:
+# Install pip
 
 (sudo apt-get update)
 
@@ -54,7 +49,7 @@ sudo apt install python-pip
 
 sudo pip install Flask
 
-# Install Docker:
+# Install Docker
 
 curl -fsSL https://get.docker.com/ | sh
 
@@ -78,6 +73,10 @@ Then run:
 sudo apt-get update
 
 sudo apt-get install nginx
+
+# Install angular/cli(optional)
+
+sudo npm install -g @angular/cli
 
 # Trouble shooting
 ## redis
