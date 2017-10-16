@@ -1,4 +1,6 @@
 # Ubuntu 16.04 LTS
+# install ubuntu alongside with Win10
+* when enter boot selection, choose UEFI [your U driver]
 
 
 # update
