@@ -2,6 +2,8 @@
 # install ubuntu alongside with Win10
 * when enter boot selection, choose UEFI [your U driver]
 
+# Install dependencies
+sudo apt-get install -f
 
 # update
 sudo apt-get update
