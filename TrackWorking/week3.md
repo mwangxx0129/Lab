@@ -1,4 +1,4 @@
 
-1. change text-> button
-2. filter sort
-3. make sure box for confirm
+- [x] change text-> button
+- [x] make sure box for confirm
+- [x] filter sort
