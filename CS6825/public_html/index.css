@@ -1,0 +1,10 @@
+/* #container {
+    position: relative;
+    width: 80%;
+} */
+
+#header {
+    position: relative;
+    height: 50px;
+    padding: 10px;
+}
